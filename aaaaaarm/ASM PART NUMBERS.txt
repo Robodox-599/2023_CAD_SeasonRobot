@@ -1,0 +1,9 @@
+0000 - MAIN
+ > 1000 - ARM 1
+ > > 
+ > 2000 - ARM 2
+ > > 2100 - INTAKE SOCKET
+ > 3000 - HINGE ARM 1 - ARM 2
+ > 4000 - GEARBOX
+
+im so sorry dylan
