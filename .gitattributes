@@ -1,4 +1,2 @@
 *.step filter=lfs diff=lfs merge=lfs -text
-*.SLDASM filter=lfs diff=lfs merge=lfs -text
-*.svpj filter=lfs diff=lfs merge=lfs -text
 *.CWR filter=lfs diff=lfs merge=lfs -text

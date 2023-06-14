@@ -1,0 +1,9 @@
+# ignores massive .steps
+cad release/**
+
+# ignores fea runoff
+*.BD2
+*.CWR
+*.BDF
+*.MFC
+*.SL4
