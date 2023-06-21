@@ -7,3 +7,6 @@ cad release/**
 *.BDF
 *.MFC
 *.SL4
+
+# ignores solidworks scrap
+~$*
